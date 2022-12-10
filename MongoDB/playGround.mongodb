@@ -1,0 +1,31 @@
+// use examen
+db.createCollection("Autor", "Noticia")
+db.Autor.insertMany(
+  [
+  {
+    "Nombre" : "Julian",
+    "Usuario" : "J233",
+    "Twitter" : "Julio922",
+    "Descripcion" : "En mi opinion...",
+    "Opcional" : [
+      "DirPostal":
+      {
+        "Calle" : "100 C#22-13",
+        "Numero" : 2729,
+        "Puerta" : 2,
+        "CP" : 00005,
+        "Ciudad" : "Bogota"
+      },
+      "Telefonos":
+      {
+        "Tel1" : 3207935,
+        "tel2" : 3219568,
+        "Tel3" : 3794455
+      }
+    ]
+  }//,
+  // {
+
+  // }
+  ]
+);

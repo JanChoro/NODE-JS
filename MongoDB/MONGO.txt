@@ -1,0 +1,24 @@
+RUTA: 
+C:\Program Files\MongoDB\Server\3.2\bin
+
+_id
+63495458dadea764fb16785e
+Nombre
+"Juan"
+
+Correo
+"jebedoya@gmail.com"
+
+Telefono
+"7341045"
+
+Direccion
+"calle 34 B# 33-12"
+Contacto
+
+
+
+ "Nombre": "Juan Bedoya",
+  "Correo" : "juanG@gmail.com",
+  "Telefono" : "3204578544",
+  "Direccion" : "Calle 29-45"
